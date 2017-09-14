@@ -1,0 +1,10 @@
+1)Define variable for the crystals.
+2)Define variable for random number for result(19-120).
+3)Define Variable for wins and losses.
+4)Define variable for additive number.
+5)each crystal should generate a random number representing it(1-12).
+6)Each crystal will have same random number assigned to it till eithr win or loss.
+7)every time you click a crystal it should add the number to the additive number.
+8)if additive number  equal to result number the user wins.
+9)if additive number greater then result number then user loses.
+10)after win or loss, reset random number and crystal value.
